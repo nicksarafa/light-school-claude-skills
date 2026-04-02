@@ -4,10 +4,12 @@ Official AI skills library for [LightSchool.com](https://lightschool.com).
 
 ## Skills
 
-- **grill-me** — Interview the user relentlessly about their plan or design until reaching shared understanding
-- **seo-audit** — Audit, review, and diagnose SEO issues on a site
-- **algorithmic-art** — Create algorithmic art using p5.js with seeded randomness and interactive parameter exploration
-- **video-downloader** — Download YouTube videos with customizable quality and format options
+| Skill | Description |
+|-------|-------------|
+| [algorithmic-art](skills/algorithmic-art/) | Create algorithmic art using p5.js with seeded randomness and interactive parameter exploration |
+| [grill-me](skills/grill-me/) | Interview the user relentlessly about their plan or design until reaching shared understanding |
+| [seo-audit](skills/seo-audit/) | Audit, review, and diagnose SEO issues on a site |
+| [video-downloader](skills/video-downloader/) | Download YouTube videos with customizable quality and format options |
 
 ---
 
